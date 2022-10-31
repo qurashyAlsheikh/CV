@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 A project to forecast if a transaction can be fraudulent or not.
 
-## Header 2
+## Loan Application Forecasting
 
 > This is a blockquote following a header.
 >
